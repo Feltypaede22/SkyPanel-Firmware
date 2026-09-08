@@ -1,0 +1,7 @@
+{
+  "panel_name": "PED-ECAM-SW",
+  "profile_key": "ecam",
+  "controller": "pro_micro",
+  "filename": "PED-ECAM-SW.hex",
+  "project_dir": "firmware-ecam"
+}

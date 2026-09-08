@@ -1,0 +1,7 @@
+{
+  "panel_name": "RMP",
+  "profile_key": "rmp",
+  "controller": "pro_micro",
+  "filename": "RMP.hex",
+  "project_dir": "firmware-rmp"
+}

@@ -1,0 +1,7 @@
+{
+  "panel_name": "RMP-FO",
+  "profile_key": "rmp_fo",
+  "controller": "pro_micro",
+  "filename": "RMP-FO.hex",
+  "project_dir": "firmware-rmp"
+}

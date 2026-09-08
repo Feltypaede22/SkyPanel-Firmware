@@ -1,0 +1,7 @@
+{
+  "panel_name": "Hyd Fuel",
+  "profile_key": "hyd_fuel",
+  "controller": "pico",
+  "filename": "Hyd Fuel.uf2",
+  "project_dir": "firmware"
+}

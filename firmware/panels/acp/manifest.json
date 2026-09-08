@@ -1,0 +1,7 @@
+{
+  "panel_name": "ACP",
+  "profile_key": "acp",
+  "controller": "pro_micro",
+  "filename": "ACP.hex",
+  "project_dir": "firmware-acp"
+}

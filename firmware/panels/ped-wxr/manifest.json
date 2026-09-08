@@ -1,0 +1,7 @@
+{
+  "panel_name": "PED-WXR",
+  "profile_key": "wxr",
+  "controller": "pro_micro",
+  "filename": "PED-WXR.hex",
+  "project_dir": "firmware-wxr"
+}

@@ -1,0 +1,7 @@
+{
+  "panel_name": "MIP-HYD-PRS",
+  "profile_key": "accu_press",
+  "controller": "pro_micro",
+  "filename": "MIP-HYD-PRS.hex",
+  "project_dir": "firmware-accu-press"
+}

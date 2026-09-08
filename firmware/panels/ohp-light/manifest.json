@@ -1,0 +1,7 @@
+{
+  "panel_name": "OHP-LIGHT",
+  "profile_key": "ohp_light",
+  "controller": "pico",
+  "filename": "OHP_LIGHT.uf2",
+  "project_dir": "firmware/firmware-ohp-light"
+}
