@@ -1,7 +1,0 @@
-{
-  "panel_name": "ATC-TCAS",
-  "profile_key": "tcas",
-  "controller": "pro_micro",
-  "filename": "ATC-TCAS.hex",
-  "project_dir": "firmware-tcas"
-}

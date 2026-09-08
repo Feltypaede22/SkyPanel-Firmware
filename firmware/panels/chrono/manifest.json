@@ -1,7 +1,0 @@
-{
-  "panel_name": "Chrono",
-  "profile_key": "chrono",
-  "controller": "pro_micro",
-  "filename": "Chrono.hex",
-  "project_dir": "firmware-ecam"
-}

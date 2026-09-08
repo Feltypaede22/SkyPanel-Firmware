@@ -1,9 +1,9 @@
 {
-  "version": "2026.09.08c",
+  "version": "2026.09.08d",
   "repo": "Feltypaede22/SkyPanel-Firmware",
   "panels": [
     {
-      "slug": "rmp",
+      "slug": "Captain RMP",
       "title": "Captain RMP",
       "panel_name": "RMP",
       "filename": "Captain RMP.hex",
@@ -11,7 +11,7 @@
       "description": "Radio Management Panel — Captain (CPT) — Pro Micro HEX"
     },
     {
-      "slug": "rmp-fo",
+      "slug": "First Officer RMP",
       "title": "First Officer RMP",
       "panel_name": "RMP-FO",
       "filename": "First Officer RMP.hex",
@@ -19,7 +19,7 @@
       "description": "Radio Management Panel — First Officer (FO) — Pro Micro HEX"
     },
     {
-      "slug": "acp",
+      "slug": "Captain ACP",
       "title": "Captain ACP",
       "panel_name": "ACP",
       "filename": "Captain ACP.hex",
@@ -27,7 +27,7 @@
       "description": "Audio Control Panel — Captain (CPT) — Pro Micro HEX"
     },
     {
-      "slug": "acp-fo",
+      "slug": "First Officer ACP",
       "title": "First Officer ACP",
       "panel_name": "ACP-FO",
       "filename": "First Officer ACP.hex",
@@ -35,7 +35,7 @@
       "description": "Audio Control Panel — First Officer (FO) — Pro Micro HEX"
     },
     {
-      "slug": "atc-tcas",
+      "slug": "ATC-TCAS",
       "title": "ATC-TCAS",
       "panel_name": "ATC-TCAS",
       "filename": "ATC-TCAS.hex",
@@ -43,7 +43,7 @@
       "description": "ATC / TCAS Panel — Pro Micro HEX"
     },
     {
-      "slug": "ped-wxr",
+      "slug": "PED-WXR",
       "title": "PED-WXR",
       "panel_name": "PED-WXR",
       "filename": "PED-WXR.hex",
@@ -51,7 +51,7 @@
       "description": "Weather Radar Panel — Pro Micro HEX"
     },
     {
-      "slug": "ped-ecam-sw",
+      "slug": "PED-ECAM-SW",
       "title": "PED-ECAM-SW",
       "panel_name": "PED-ECAM-SW",
       "filename": "PED-ECAM-SW.hex",
@@ -59,7 +59,7 @@
       "description": "ECAM Switch Panel — Pro Micro HEX"
     },
     {
-      "slug": "mip-hyd-prs",
+      "slug": "MIP-HYD-PRS",
       "title": "MIP-HYD-PRS",
       "panel_name": "MIP-HYD-PRS",
       "filename": "MIP-HYD-PRS.hex",
@@ -67,7 +67,7 @@
       "description": "MIP Accumulator / Hydraulic Pressure — Pro Micro HEX"
     },
     {
-      "slug": "chrono",
+      "slug": "Chrono",
       "title": "Chrono",
       "panel_name": "Chrono",
       "filename": "Chrono.hex",
@@ -75,7 +75,7 @@
       "description": "Chrono Display Panel — Pro Micro HEX"
     },
     {
-      "slug": "hyd-fuel",
+      "slug": "Hyd Fuel",
       "title": "Hyd Fuel",
       "panel_name": "Hyd Fuel",
       "filename": "Hyd Fuel.uf2",
@@ -83,7 +83,7 @@
       "description": "Hydraulic / Fuel Panel — Raspberry Pi Pico UF2"
     },
     {
-      "slug": "ohp-light",
+      "slug": "OHP Light",
       "title": "OHP Light",
       "panel_name": "OHP-LIGHT",
       "filename": "OHP Light.uf2",
