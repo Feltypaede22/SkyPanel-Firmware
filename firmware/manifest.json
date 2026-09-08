@@ -1,12 +1,12 @@
 {
-  "version": "2026.09.08",
+  "version": "2026.09.08b",
   "repo": "Feltypaede22/SkyPanel-Firmware",
   "panels": [
     {
       "slug": "rmp",
       "title": "Captain RMP",
       "panel_name": "RMP",
-      "filename": "RMP.hex",
+      "filename": "Captain RMP.hex",
       "version": "2.0",
       "description": "Radio Management Panel — Captain (CPT) — Pro Micro HEX"
     },
@@ -14,7 +14,7 @@
       "slug": "rmp-fo",
       "title": "First Officer RMP",
       "panel_name": "RMP-FO",
-      "filename": "RMP-FO.hex",
+      "filename": "First Officer RMP.hex",
       "version": "2.0",
       "description": "Radio Management Panel — First Officer (FO) — Pro Micro HEX"
     },
@@ -22,7 +22,7 @@
       "slug": "acp",
       "title": "Captain ACP",
       "panel_name": "ACP",
-      "filename": "ACP.hex",
+      "filename": "Captain ACP.hex",
       "version": "2.0",
       "description": "Audio Control Panel — Captain (CPT) — Pro Micro HEX"
     },
@@ -30,7 +30,7 @@
       "slug": "acp-fo",
       "title": "First Officer ACP",
       "panel_name": "ACP-FO",
-      "filename": "ACP-FO.hex",
+      "filename": "First Officer ACP.hex",
       "version": "2.0",
       "description": "Audio Control Panel — First Officer (FO) — Pro Micro HEX"
     },
@@ -86,7 +86,7 @@
       "slug": "ohp-light",
       "title": "OHP Light",
       "panel_name": "OHP-LIGHT",
-      "filename": "OHP_LIGHT.uf2",
+      "filename": "OHP Light.uf2",
       "version": "1.0",
       "description": "Overhead Light Panel — Raspberry Pi Pico UF2"
     }
