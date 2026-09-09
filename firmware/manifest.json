@@ -1,5 +1,5 @@
 {
-  "version": "2026.09.08d",
+  "version": "2026.09.09",
   "repo": "Feltypaede22/SkyPanel-Firmware",
   "panels": [
     {
@@ -55,8 +55,8 @@
       "title": "PED-ECAM-SW",
       "panel_name": "PED-ECAM-SW",
       "filename": "PED-ECAM-SW.hex",
-      "version": "1.0",
-      "description": "ECAM Switch Panel — Pro Micro HEX"
+      "version": "1.6",
+      "description": "ECAM Switch Panel — Pro Micro HEX (4× TLC5917, Switching U7)"
     },
     {
       "slug": "MIP-HYD-PRS",
